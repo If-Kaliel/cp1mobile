@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:app_lista/pages/nightclub_page.dart';
+import 'package:cp1mobile/pages/nightclub_page.dart';
 
 void main(){
   runApp(MyApp());
